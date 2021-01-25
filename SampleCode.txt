@@ -2,3 +2,5 @@
 print("SAMPLE TEXT MGA FRIENDS -Ailah")
 
 System.out.println("Daryl");
+
+cout<<"a"<<a<<endl<<"b"<<b<<endl<<"c"<<c<<endl<<"d"<<d<<endl<<"e"<<e<<endl;
