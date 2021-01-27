@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("WE ARE ONE sabi ng EXO char");
+    System.out.println(" --Ailah--");
+ 	 }
+}
